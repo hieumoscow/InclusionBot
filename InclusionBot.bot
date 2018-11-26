@@ -1,0 +1,61 @@
+{
+  "name": "InclusionBot",
+  "padlock": "L7uUMyjds5chyC/msF64gA==!VCtTRMOO78LpJo9ePXhhqOTmJDGwycjTZ2wqRGFqOzfkxHhg1qcSN1ROH8Rgc4eF",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "122b8000-f910-48c4-899a-845d36600f10",
+      "resourceGroup": "InclusionBot",
+      "serviceName": "InclusionBot",
+      "type": "abs",
+      "name": "InclusionBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "+n/f+yk3oPXIFRzAXc/qOg==!mJoNqKiEJ9XzqwHfdIox1JywytC49kuSXP47CCT53YHDnj2jOk3KgCvBkQjG1qvrKWDq/LDk2rPOSpG9328JUuERj6E8i0mzI9wanUw391JMyFRYDOa7/V1uxJ6CPZSD5JPD7bmCa0FwUZ9Er5JlizGa+pHsnKTPIl3IF0ZuQOxlzcgE+IEYPEeTQeGCqjgiJeGgFZD/RPUyOGBA4uxFWn7pgfLVKTlF0+0jSxahPN8=",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "122b8000-f910-48c4-899a-845d36600f10",
+      "resourceGroup": "InclusionBot",
+      "serviceName": "inclusionbotb652",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "99a9fcd4-b669-47a5-ae0b-9d9518b6f9e4",
+      "appPassword": "Nj2yNQAGVMfYHv0scwj9wA==!vi+wu/NuexvbhUS5H6jYE+9Ee2T10cJwDRGP6i2G4SI=",
+      "endpoint": "https://gbbinclusionbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "UCHktI/63yP7Hs/5Y2gOvQ==!YGH/mvBBwkc/M4Mj59i+Uw53Vo84Zka4stH4WFQedTpotYW0ANwwiiLK19VEGiiA",
+      "applicationId": "e8bf2ab8-cbf2-448a-bc29-ccc6cd884f35",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "122b8000-f910-48c4-899a-845d36600f10",
+      "resourceGroup": "InclusionBot",
+      "serviceName": "InclusionBotb5f53c",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "6e344621-8522-49a6-a664-614a49da95ae",
+      "authoringKey": "lqotJkkvyeytoO1gFhFbYw==!izUM5NJInr49xDxhbjyQ3ENLedSkvtiJLlWG+cwjh2/HxUFAmLARd5bVI/ndJcJt",
+      "version": "0.1",
+      "region": "australiaeast",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
