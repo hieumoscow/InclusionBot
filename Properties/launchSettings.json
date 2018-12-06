@@ -8,7 +8,14 @@
     }
   },
   "profiles": {
-    "BasicBot": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "InclusionBot": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

@@ -1,0 +1,5 @@
+C:\Users\Michael Williams\Documents\InclusionBot\InclusionBot
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=InclusionBot
+--content-root=C:\Users\Michael Williams\Documents\InclusionBot\InclusionBot
+--file=
